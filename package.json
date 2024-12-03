@@ -1,0 +1,16 @@
+{
+  "name": "jubasbank",
+  "version": "1.0.0",
+  "description": "Jubas Bank with TypeScript and NodeJs",
+  "main": "index.js",
+  "scripts": {
+    "dev": "ts-node-dev app.ts"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "ts-node-dev": "^2.0.0",
+    "typescript": "^4.7.4"
+  }
+}
